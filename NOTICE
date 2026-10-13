@@ -1,0 +1,8 @@
+PS1 Disc Research is MIT licensed.
+
+Original inspector and skill: Elliot / Bobtoshi, 2026.
+ISO9660 version-preserving lookup and bounded CUE numeric parsing incorporate
+changes by morluto from REA PR #2386, commit
+105c25422d902c415d1c6bef1e45684c592ef2d5.
+REA (https://github.com/morluto/rea) is MIT licensed.
+Its PS1 inspector was originally contributed by Elliot / Bobtoshi.
